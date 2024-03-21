@@ -1,0 +1,4 @@
+pArea_1/dormitory_1/Annotations
+pArea_1/dormitory_2/Annotations
+pArea_2/dormitory_1/Annotations
+pArea_3/dormitory_1/Annotations
